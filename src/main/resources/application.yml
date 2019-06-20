@@ -1,0 +1,5 @@
+app:
+  id: 123
+apollo:
+  meta: http://192.168.164.10:8080
+  cacheDir: F:\opt\data\apollo-cache
